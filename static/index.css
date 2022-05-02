@@ -1,0 +1,23 @@
+
+body {
+  margin: 0;
+  font-family: Daniel;
+}
+div{
+  color: cadetblue;
+  font-family: Daniel;
+  font-size: large;
+}
+button{
+  color: cadetblue;
+}
+textarea{
+  height:200px;
+}
+label {
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input {
+    margin: .4rem;
+}
